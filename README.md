@@ -5,13 +5,13 @@ In this project, I analyzed various aspects of the annual Battle at the Berrics 
 ## Data
 The dataset I used is the [Battle at the Berrics API](https://api.batbstats.trevorblades.com/), developed by skater Trevor Blades. The data was transcribed by Andrew Jones from the Battle at the Berrics YouTube videos. Because the videos are public, no data was taken without consent by Blades and Jones. It is important to consider that the data was transcribed by a third party, meaning transcription errors were possible. The data also represents professional skaters, not the general skateboarding community. To actually extract the data from the API, I needed to use a GraphQL query on the API’s website, and then use CURL to turn this data into a JSON file.  
 ## Analyses
-Trick Consistency - Which tricks are successfully landed the most consistently?
-Trick Variation Distribution - What trick variations are the most popular, and what is the make rate for each one?
-Roshambo - Does winning roshambo (RPS) give you better odds of winning the match?
-Trick Popularity vs. Make Rate Regression - How does the attempt count of a trick relate to its make rate?
-Logistic Regression Model To Predict Match Outcomes - Can we create a logistic regression model to predict who will win a game of S.K.A.T.E. between two skaters?
+Trick Consistency - Which tricks are successfully landed the most consistently? \n
+Trick Variation Distribution - What trick variations are the most popular, and what is the make rate for each one? \n
+Roshambo - Does winning roshambo (RPS) give you better odds of winning the match? \n
+Trick Popularity vs. Make Rate Regression - How does the attempt count of a trick relate to its make rate? \n
+Logistic Regression Model To Predict Match Outcomes - Can we create a logistic regression model to predict who will win a game of S.K.A.T.E. between two skaters? \n
 
 ## Credits
-Trevor Blades
-Andrew Jones
-Rush Sanghrajka
+Trevor Blades \n
+Andrew Jones \n
+Rush Sanghrajka \n
